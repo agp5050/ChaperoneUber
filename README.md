@@ -24,6 +24,9 @@ https://github.com/uber/uReplicator
 * Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
 * How Uber scaled its Real Time Infrastructure to [Trillion events] per day
 
+# Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
+https://github.com/gridgentoo/gentoo-tensorflow-overlay
+
 Chaperone
 ============
 As Kafka audit system, Chaperone monitors the completeness and latency of data stream. The audit metrics are persisted in database for Kafka users to quantify the loss of their topics if any.
