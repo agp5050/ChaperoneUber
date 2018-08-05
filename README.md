@@ -1,3 +1,36 @@
+Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день используя Экосистему Hadoop & Spark
+
+Как Uber Engineering проводит аудит Kafka
+
+[uber.com] Introducing Chaperone: How Uber Engineering Audits Kafka End-to-End
+
+https://docs.google.com/document/d/1AvkvJjnbjGmMY0GnnwrCGPdhBEfEeG5khL1N9iYwQaE/
+
+![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
+[uber.com] uReplicator: Uber Engineering’s Robust Kafka Replicator
+
+https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/edit#heading=h.v1nll5cd1ml6
+
+[uber.com]  Improvement of Apache Kafka Mirrormaker
+
+https://github.com/uber/uReplicator
+
+![Image alt](https://cdn-images-1.medium.com/max/1600/1*FYR3tjCt8qcpCm-AHZORsQ.png)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/kafka_pipeline.png)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/chaperone_architecture.png)
+
+* Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
+* How Uber scaled its Real Time Infrastructure to [Trillion events] per day
+
+https://www.youtube.com/watch?v=K-fI2BeTLkk
+
+![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
+![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
+![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
+![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
+
 Chaperone
 ============
 As Kafka audit system, Chaperone monitors the completeness and latency of data stream. The audit metrics are persisted in database for Kafka users to quantify the loss of their topics if any.
