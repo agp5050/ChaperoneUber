@@ -3,19 +3,25 @@
 Как Uber Engineering проводит аудит Kafka
 
 [uber.com] Introducing Chaperone: How Uber Engineering Audits Kafka End-to-End
+[Chaperone] - это система аудита Kafka, разработанная в Uber 
 
 https://docs.google.com/document/d/1AvkvJjnbjGmMY0GnnwrCGPdhBEfEeG5khL1N9iYwQaE/
+
+[github.com] Chaperone - это система аудита Kafka, разработанная в Uber
+
+https://github.com/gridgentoo/ChaperoneUber
 
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
-[uber.com] uReplicator: Uber Engineering’s Robust Kafka Replicator
 
+[github.com] uReplicator: Uber Engineering’s Robust Kafka Replicator 
+
+https://github.com/gridgentoo/uReplicatorUber
+
+[uber.com] uReplicator: Uber Engineering’s Robust Kafka Replicator
 https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/edit#heading=h.v1nll5cd1ml6
 
-[uber.com]  Improvement of Apache Kafka Mirrormaker
-
-https://github.com/uber/uReplicator
 
 ![Image alt](https://cdn-images-1.medium.com/max/1600/1*FYR3tjCt8qcpCm-AHZORsQ.png)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/kafka_pipeline.png)
