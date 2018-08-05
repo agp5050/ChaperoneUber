@@ -24,13 +24,6 @@ https://github.com/uber/uReplicator
 * Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
 * How Uber scaled its Real Time Infrastructure to [Trillion events] per day
 
-https://www.youtube.com/watch?v=K-fI2BeTLkk
-
-![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
-![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
-![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
-![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
-
 Chaperone
 ============
 As Kafka audit system, Chaperone monitors the completeness and latency of data stream. The audit metrics are persisted in database for Kafka users to quantify the loss of their topics if any.
